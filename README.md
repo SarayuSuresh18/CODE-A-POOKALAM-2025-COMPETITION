@@ -39,8 +39,8 @@ python joy library needed to run the code
 
 Code-a-Pookalam-2025/
 ├── README.md (this file)
-├── pookalam.py (or your main file)
-└── joy.py (to download joy library)
+├── joy.py (to download joy library)
+└── pookalam2k25.py (main file )
 
 ## 🎊 Happy Onam! 🎊
 *Submitted for Code-a-Pookalam 2025 by TinkerHub RIT* 
