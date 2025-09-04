@@ -4,7 +4,7 @@
 ## 👨‍💻 About Me
 - **Name:** SARAYU SURESH
 - **Institution/Company:** MBCCET Kuttikanam
-- **GitHub:** @SarayuSuresh18 (https://github.com/SarayuSuresh@18)
+- **GitHub:** @SarayuSuresh18 (https://github.com/SarayuSuresh18)
 - **Programming Language Used:** Python {Joy Library}
 
 ## 🎨 My Pookalam
