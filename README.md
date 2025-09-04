@@ -1,5 +1,5 @@
 
-# 🌸 SARAYYU's Pookalam 2025 🌸
+# 🌸 SARAYU's Pookalam 2025 🌸
 
 ## 👨‍💻 About Me
 - **Name:** SARAYU SURESH
